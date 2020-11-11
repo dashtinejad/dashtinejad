@@ -1,6 +1,10 @@
-### Hi there 👋
+<h3 align="center">
+Hi there 👋
+</h3>
 
-![image](https://user-images.githubusercontent.com/8079021/98867841-8bc75b80-246f-11eb-8836-0c3093e5c935.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8079021/98867841-8bc75b80-246f-11eb-8836-0c3093e5c935.png" width="250" />
+</p>
 
 
 <!--
